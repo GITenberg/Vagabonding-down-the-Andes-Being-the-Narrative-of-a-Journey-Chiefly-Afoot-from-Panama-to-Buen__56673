@@ -1,5 +1,8 @@
 _repo: Vagabonding-down-the-Andes-Being-the-Narrative-of-a-Journey-Chiefly-Afoot-from-Panama-to-Buen__56673
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56673-h/images/cover.jpg
 creator:
   author:
     agent_name: Franck, Harry Alverson
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1579
     wikipedia: http://en.wikipedia.org/wiki/Harry_A._Franck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56673#Vagabonding-down-the-Andes-Being-the-Narrative-of-a-Journey-Chiefly-Afoot-from-Panama-to-Buen_
 gutenberg_issued: '2018-03-03'
 gutenberg_type: Text
 identifiers:
